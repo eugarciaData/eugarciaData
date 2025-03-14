@@ -1,10 +1,4 @@
-## Hi there 👋
-
-# Data Science Portfolio
-
-Welcome to my GitHub repository! This is where I share my projects and work in the fields of Data Science and Business Analytics. Below are the key skills and tools I have acquired and continue to develop.
-
-## 🧑‍💻 My Approach
+# Welcome to my Data Science Portfolio! 👋
 
 I am a **continuous learner** in Data Science. Over the past year, I've focused on studying the fundamentals of Data Science, from data cleaning and preparation to implementing machine learning models. My approach has been hands-on, transforming data into new possibilites.
 
