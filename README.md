@@ -17,13 +17,13 @@ I am a **continuous learner** in Data Science. Over the past year, I've focused 
 
 ## 🚀 Projects
 
-### 1. **Titanic: Machine Learning from Disaster**
+### **Titanic: Machine Learning from Disaster**
 - **Repository**: [Titanic-Survival_Analysis](https://github.com/eugarciaData/Titanic-Survival_Analysis)
 
-### 2. **Business Analytics - Discovery**
+### **Business Analytics - Discovery**
 - **Repository**: [Análisis inmobiliario Madrid Q4 2024](https://github.com/eugarciaData/analisis-inmobiliario-madrid-q4-2024)
 
-### 3. **Lead Scoring (Data Science)**
+### **Lead Scoring (Data Science)**
 - **Repository**: [Lead Scoring con Regresión Logística](https://github.com/eugarciaData/lead-scoring-ml)
 
 ## 📚 What I'm Learning
