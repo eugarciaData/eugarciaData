@@ -15,7 +15,7 @@ I am a **continuous learner** in Data Science. Over the past year, I've focused 
   - Experience working in collaborative environments (admitted to **[42 Madrid](https://www.42madrid.com)**)
 - **📈 Business Analytics**: Discovery projects
 
-## I feed my virtual pet every day by writing code:
+## I feed my virtual pet by writing code every day:
 
 [Check out my progress!](https://www.codedex.io/@Strat/30-nites-of-code)  
 <img src="https://www.codedex.io/api/petStatus?user=Strat" alt="@Strat #30NitesOfCode" width="100">
