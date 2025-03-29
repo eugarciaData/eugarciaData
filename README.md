@@ -19,6 +19,7 @@ I am a **continuous learner** in Data Science. Over the past year, I've focused 
 
 [Check out my progress!](https://www.codedex.io/@Strat/30-nites-of-code)  
 ![@Strat #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Strat)
+<img src="https://www.codedex.io/api/petStatus?user=Strat" alt="@Strat #30NitesOfCode" width="200">
 
 ## 🚀 Projects
 
