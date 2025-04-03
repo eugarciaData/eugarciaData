@@ -22,8 +22,8 @@ I am a **continuous learner** in Data Science. Over the past year, I've focused 
 
 ## 🚀 Projects
 
-### **Titanic - Machine Learning from Disaster**
-- **Repository**: [Titanic-Survival_Analysis](https://github.com/eugarciaData/Titanic-Survival_Analysis)
+### **Retail-Forecast-ML**
+- **Repository**: [Retail-Forecast-ML](https://github.com/eugarciaData/Retail-Forecast-ML)
 
 ### **Airbnb - Análisis Inmobiliario del Alquiler Turístico**
 - **Repository**: [Análisis inmobiliario Madrid Q4 2024](https://github.com/eugarciaData/analisis-inmobiliario-madrid-q4-2024)
