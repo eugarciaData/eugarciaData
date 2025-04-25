@@ -1,6 +1,6 @@
 # Welcome to my Data Analytics & Data Science Portfolio! 👋
 
-I'm Eugenio García, a passionate Data Analyst in the making. Over the last year, I've been immersed in data, developing skills in Python, SQL, and data visualization to extract insights and support better decision-making. I enjoy translating complex data into clear stories, combining analytical thinking with business understanding.  I've focused on studying the fundamentals of Data Science, from data cleaning and preparation to implementing machine learning models. 
+I'm Eugenio García, a passionate Data Analyst in the making. Over the last year, I've been immersed in data, developing skills in Python, SQL, and data visualization to extract insights and support better decision-making.
 
 ### 🔧 Programming Languages & Tools
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
@@ -9,8 +9,10 @@ I'm Eugenio García, a passionate Data Analyst in the making. Over the last year
 - **Excel** (Pivot tables, formulas, reporting)
 - **🤝 Teamwork & Collaboration**:
   - Experience working in collaborative environments (admitted to **[42 Madrid](https://www.42madrid.com)**)
-- **📈 Business Analytics**: Discovery projects
-- **📊 Data Science & Machine Learning**:
+
+- Extra:
+  - **📈 Business Analytics**: Discovery projects
+  - **📊 Data Science & Machine Learning**:
   - Inferential & Descriptive Statistics
   - Machine Learning algorithms (Supervised and Unsupervised)
 
